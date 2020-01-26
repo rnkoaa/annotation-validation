@@ -1,0 +1,5 @@
+rootProject.name = 'annotation-validation'
+include 'annotation-client'
+include 'annotation-processor'
+include 'annotation-models'
+

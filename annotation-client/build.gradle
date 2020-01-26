@@ -1,0 +1,6 @@
+dependencies {
+    annotationProcessor project(":annotation-processor")
+
+    compile project(":annotation-models")
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
